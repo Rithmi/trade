@@ -2,3 +2,4 @@ pymysql
 cryptography
 websocket-client
 requests
+python-dotenv
