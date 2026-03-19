@@ -1,0 +1,4 @@
+pymysql
+cryptography
+websocket-client
+requests
